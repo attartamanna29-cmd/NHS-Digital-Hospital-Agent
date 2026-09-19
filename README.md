@@ -3,6 +3,14 @@
 > An integrated, enterprise-grade AI-powered healthcare platform combining real-time physiological symptom triage (LightGBM 250k model), PostgreSQL-backed clinical records, interactive doctor & admin portals, and Google Gemini AI decision support.
 
 ---
+## My Contribution
+
+* Developed the frontend interface using **React 19, TypeScript, Vite, and Tailwind CSS**.
+* Designed and implemented the **patient dashboard** with patient information and vital signs such as **blood pressure, heart rate, and SpO₂**.
+* Built reusable and responsive **UI components** for the healthcare dashboard.
+* Integrated the frontend with the project's **AI and backend functionality** to provide an interactive digital hospital assistant experience.
+* Improved the overall **UI/UX, responsiveness, and visual presentation** of the application.
+
 
 ## 📌 Table of Contents
 
